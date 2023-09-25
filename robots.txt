@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://abdrehman98.github.io/abdrehman98.github.io/sitemap.xml
